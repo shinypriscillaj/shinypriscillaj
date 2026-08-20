@@ -95,7 +95,6 @@ Performed data preprocessing and clustering, implemented the recommendation logi
 
 I’m currently focusing on improving my understanding of:
 
-* Backend architecture and system design
 * Agentic AI and multi-agent workflows
 * RAG architectures and retrieval strategies
 * LangGraph and stateful agent workflows
@@ -117,7 +116,6 @@ Panimalar Engineering College
 * Prompt Design in Vertex AI — Google
 * Top Applied AI Builder — Amura Health
 * Generative AI Cloud Certified — Oracle
-* UiPath Automation Developer — NASSCOM
 * Java Basics — HackerRank
 * SQL Basics — HackerRank
 
