@@ -87,7 +87,7 @@ Developed a recommendation system using the Apriori algorithm to identify freque
 
 Performed data preprocessing and clustering, implemented the recommendation logic using MLxtend, and integrated the backend with a user interface to generate recommendations for selected products.
 
-**Technologies:** Python, Flask, MLxtend, Pandas, CSV
+**Technologies:** Python, Flask, Pandas, CSV
 
 ---
 
